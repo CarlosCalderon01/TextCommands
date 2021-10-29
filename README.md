@@ -1,9 +1,9 @@
-# TextCommands
+# TextCommands - Version 1
 Epale buena esa crack! :D, Repositorio con la lista de comandos que nesecito para git, git-hub.
 
 Pasos Para la sincronizacion de mi git_pc con mi Git_Hub.
 
-//----------//----------/Identificación y registro/----------//----------//
+//----------//----------/Identificación Y Registro/----------//----------//
 
 1-) Crear una carpeta llamada ".ssh". en user/user/.ssh
 
