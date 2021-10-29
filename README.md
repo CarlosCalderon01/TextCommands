@@ -19,14 +19,6 @@ Pasos Para la sincronizacion de mi git_pc con mi Git_Hub.
 
 7-) buscar la clave generada e ir al settings de git y pegarla en un nuevo SSH
 
-//----------//----------//----------//----------//
-
-
-
-
-
-
-
 //----------//Lista De Comandos Basicos De Para La Consola Git Bash//----------//
 
 pwd: nos muestra la carpeta actual en la que nos encontramos.
@@ -53,3 +45,10 @@ history: ver los últimos comandos que ejecutamos y un número especial con el q
 
 //----------//Lista De Comandos Basicos De Git Bash//----------//
 
+git init
+git add .
+git reset .
+git commit
+git checkout -- .
+
+//----------//----------//----------//----------//
